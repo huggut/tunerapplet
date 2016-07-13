@@ -1,0 +1,7 @@
+Normalmente, los afinadores de guitarra que solemos encontrar en internet están basados en una grabación o tonos generados por la aplicación. A veces necesitamos un afinador que nos de la máxima precisión y fiabilidad, como los que reaccionan midiendo la intensidad del sonido al pulsar una cuerda. Ahora podremos tener un afinador de este tipo sin necesidad de comprarlo.
+
+Guitar Tuner Java Applet es un afinador de guitarra gratuito, multiplataforma y de código abierto; hecho especialmente para publicarlo en la web, aunque también podemos usarlo desde nuestro PC.
+
+Lo que lo diferencia a los demás es que este afinador se dedica a medir el tono de la cuerda que pulsas, al contrario que la mayoría de afinadores virtuales, lo cual hace que la afinación sera muy precisa y de mejores resultados.
+
+Si quieres tener un afinador sencillo de usar y totalmente preciso, una vez que pruebes Guitar Tuner Java Applet no te podrás separar de él. 

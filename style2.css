@@ -1,0 +1,251 @@
+body {
+margin: 0;
+padding: 0;
+background-image: url(bg.jpg);
+font-family: Verdana,Arial,Helvetica,sans-serif;
+font-size: 12px; 
+text-align: center;
+
+}
+
+
+* {
+font-size: 12px; 
+	margin: 0;
+	padding: 0;
+}
+a.rubriques {
+	text-decoration: none;
+	color : white;
+}
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+
+a:hover {  
+	color: gray;
+}
+a.banniere:hover {  
+	color: white;
+}
+a.banniere {
+	text-decoration: none;
+	color: white;
+}
+
+
+
+
+
+#page_centre{
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 750px;
+margin-bottom: auto;
+background: white;
+text-align: left;
+}
+
+
+
+#zone_titre {
+position: absolute;
+top: 60px;
+left: 30px;
+text-align: left;
+color: white;
+
+}
+
+#zone_panorama {
+position: relative;
+padding: 5px;
+margin-top: -81px;
+margin-left: 536px;
+top: 0px;
+width: 200px;
+height: 30px;
+
+text-align: right;
+}
+
+#zone_rubriques {
+position: absolute;
+padding: 5px;
+top: 100px;
+left: 13px;
+width: 134px;
+height: 363px;
+color : #FF9900;
+text-align: left;
+background-image: url(../images/fondgauche.png);
+}
+
+#logo_openstudio {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 750px;
+height: 80px;
+}
+
+
+#panorama {
+position: relative;
+margin-top: -60px;
+margin-left: 245px;
+top: 7px;
+right: 5px;
+background-image: url(../images/panorama.jpg);
+width: 501px;
+height: 88px;
+color : white;
+text-align: right;
+}
+
+
+#zone_articles {
+position: relative;
+padding: 0px;
+margin-top: 0px;
+margin-bottom: 30px;
+top: 10px;
+left: 190px;
+width: 530px;
+color : #4c4c4c;
+text-align: left;
+height: auto !important;
+height: 350px;
+min-height: 350px;
+
+}
+
+#zone_pied_de_page {
+position: relative;
+font-size: 9px;
+width: 750px;
+height: 50px;
+color : blue;
+text-align: center;
+background: #FF9900;
+bottom: 0;
+padding: 0;
+margin: 0;
+clear: both;
+}
+
+#zone_rechercher {
+position: relative;
+margin-top: 175px;
+padding-left: 5px;
+padding-bottom: 5px;
+left: 0px;
+color : blue;
+text-align: left;
+font-size: 12px; 
+background: #FF9900;
+}
+
+#zone_authentification {
+position: relative;
+margin-top: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 5px;
+left: 0px;
+color : blue;
+text-align: left;
+font-size: 12px; 
+background: #FF9900;
+}
+
+#css_ok {
+position: relative;
+margin-top: 80px;
+top: 350px;
+left: 20px;
+color : blue;
+text-align: left;
+}
+
+#logo_article{
+position: relative;
+margin-top: 0;
+margin-bottom: 0;
+font-size: 9px; 
+padding: 0;
+top: 0;
+left: 0;
+text-align: left;
+height: 160px;
+}
+
+#titre_article{
+position: relative;
+margin-top: 0;
+margin-left: 0;
+padding: 0;
+top: -170px;
+left: 230px;
+font-weight: bold;
+font-family: Verdana,Arial,Helvetica,sans-serif; 
+color : #4c4c4c;
+text-align: left;
+font-size: 14px; 
+
+
+}
+
+#article{
+position: relative;
+margin-top: 30px;
+margin-bottom: -130px;
+margin-left: 0;
+text-align: left;
+
+}
+
+#texte_article{
+position: relative;
+margin-top: 10px;
+padding: 0;
+top: -180px;
+left: 230px;
+width: 300px;
+color : #4c4c4c;
+text-align: left;
+font-family: Verdana,Arial,Helvetica,sans-serif;
+font-size: 11px; 
+
+
+}
+#tester_en_ligne{
+position: relative;
+margin-top: 10px;
+margin-left: 0;
+padding-top: 3px;
+padding-bottom: 3px;
+top: -185px;
+left: 430px;
+width: 100px;
+color: white;
+text-align: center;
+font-family: Verdana,Arial,Helvetica,sans-serif;
+font-size: 12px; 
+background: #FF9900;
+}
+
+input.button  {
+font-size: 9px; 
+margin-top: 5px;
+}
+
+input.zone_rechercher  {
+font-size: 9px; 
+margin-top: 5px;
+}
+
+
